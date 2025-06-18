@@ -1,0 +1,19 @@
+{
+    "users": [
+     {
+            "name": "Emerald", 
+            "title": "Emeralds blog", 
+            "username": "EmeraldEpelle"
+         },
+    {
+       "name": "Imelda", 
+       "title": "Imeldas blog", 
+       "username": "ImeldaEpelle"
+       },
+    {
+        "name": "Family", 
+        "title": "Familys blog", 
+        "username": "FamilyEpelle" 
+        }
+    ]
+}
